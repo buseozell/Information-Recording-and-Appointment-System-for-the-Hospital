@@ -1,6 +1,6 @@
 ## Appointment and Information Recording System for Hospitals
 
-This project is my second project.
+This project that I coded through Eclipse is my second project.
 
 Patients can see general information about the doctors they want to make an appointment with and can create their own appointments; staff 
 can see patient information, staff information and work schedules if there is a new patient record; In addition, a system was designed where doctors can make changes 
