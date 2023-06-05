@@ -8,6 +8,7 @@ on recorded patient information. </br> An online English presentation was made w
 code and creating the codes using the java software language. In this work that consist of two people, 
 
 Buse Özel acted as the spokesperson of the project and developed inheritance and encapsulation via Java. 
+
 Gizem Kılıç made the User Interface and connected the classes using NetBeans and Java.
 
 Project details are available in the reports. You can access the code source from the "AppointmentAndInformationRecordingSystemForHospital" file. 
